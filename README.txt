@@ -1,4 +1,7 @@
-Strata by HTML5 UP
+SHI.Y Blog
+Thank you for HTML5 UP
+Theme name: Strata by HUML5 UP
+
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
