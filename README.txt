@@ -1,11 +1,7 @@
-It's my personal electronic card.
+It's my personal vCard.
 
 Acknowledgements:
 html5up.net | @ajlkn
-
-AJ
-aj@lkn.io | @ajlkn
-
 
 Credits:
 
